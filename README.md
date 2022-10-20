@@ -9,8 +9,8 @@ I'm Kenichi Segawa!
 
 <h2>💻 I'm Currently Learning</h2>
 
-__AWS Cloud Certification__
-- [AWS Certified Cloud Practitioner by Neal Davis ](https://www.udemy.com/course/aws-certified-cloud-practitioner-training-course)
+__Azure Certification__
+AZ 900
 
 <!-- __University of Missouri - Saint Louis__
 - List of courses
