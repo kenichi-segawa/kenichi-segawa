@@ -5,28 +5,25 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kenichi-segawa.kenichi-segawa)](https://github.com/kenichi-segawa) [![GitHub followers](https://img.shields.io/github/followers/kenichi-segawa.svg?style=social&label=Follow)](https://github.com/kenichi-segawa?tab=followers)
 
 I'm Kenichi Segawa! 
-- <i>Currently:</i> MS Information Systems & Technology Student at University of Missouri - Saint Louis. 
+- <i>2022 Alumini:</i> MS Information Systems & Technology from University of Missouri - Saint Louis
+- <i>Previouly:</i> Associate ML Engineer @ [FinLocker](https://finlocker.com/about-finlocker/) 
+- <i>Currently:</i> Data&AI Cloud Solution Architect - Engineering @ Microsoft
+
+<h2>💻 Passed Azure Cerfitications</h2>
+
+__Azure Certification:__
+AZ 900 & DP100
 
 <h2>💻 I'm Currently Learning</h2>
 
-__Azure Certification__
-AZ 900
-
-<!-- __University of Missouri - Saint Louis__
-- List of courses
-- INFSYS 6830 Pythong and R
-- INFSYS 6833  -->
-
-<h2>Currently working:</h2>
-<h4>Machine Learning Intern at FinLocker</h4>
-
-Working as Machine Learning Intern at [FinLocker](https://finlocker.com/about-finlocker/).  
+- Azure Machine Learning
+- Cognitive Services
 
 <h2>Planning Projects 💯</h2>
 
 List of planning projects:
 
-I document my experience throughout this process.
+....TBD
 
 <!-- __Check out my GitHub repository:__
 
@@ -57,7 +54,8 @@ I document my experience throughout this process.
 
 <h2> About Kenichi Segawa⚡:</h2>
 
-I'm a Graduate Student living in Saint Louis, MO. Outside Tech, I love to read, enjoy music and watch movie. If you are around Saint Louis, drop an email and let's catch-up over Coffee!
+I'm a data science enthusiast working as a Data and AI Cloud Solutions Architect at Microsoft in St. Louis, Missouri. My goal is to help everyone on their data and AI adoption journey. Outside of Tech, I enjoy playing with my dog and cats, play badminton, and hunting for good coffee shops out there! If you're near St. Louis, write an email and let's meet for coffee!
+
 
 <h2>📫 How to reach me:</h2>
 
