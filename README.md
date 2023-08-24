@@ -7,7 +7,7 @@
 I'm Kenichi Segawa! 
 - <i>2022 Alumini:</i> MS Information Systems & Technology from University of Missouri - Saint Louis
 - <i>Previouly:</i> Associate ML Engineer @ [FinLocker](https://finlocker.com/about-finlocker/) 
-- <i>Currently:</i> Data&AI Cloud Solution Architect - Engineering @ Microsoft
+- <i>Currently:</i> Data&AI Cloud Solution Architect @ [Microsoft](https://azure.microsoft.com/en-us/)
 
 <h2>💻 Passed Azure Cerfitications</h2>
 
