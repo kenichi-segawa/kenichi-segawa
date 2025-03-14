@@ -48,7 +48,7 @@ List of planning projects:
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenichi-segawa" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=kenichi-segawa&show_icons=true" alt="GitHub Stats" /> <br/><br/>
   </p>
 </div>
 
