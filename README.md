@@ -55,7 +55,7 @@ List of planning projects:
 
 <h2> About Kenichi Segawa⚡:</h2>
 
-I'm a data science enthusiast working as a Data and AI Cloud Solutions Architect at Microsoft in St. Louis, Missouri. My goal is to help everyone on their data and AI adoption journey. Outside of Tech, I enjoy playing with my dog and cats, play badminton, and hunting for good coffee shops out there! If you're near St. Louis, write an email and let's meet for coffee!
+<!-- I'm a data science enthusiast working as a Data and AI Cloud Solutions Architect at Microsoft in St. Louis, Missouri. My goal is to help everyone on their data and AI adoption journey. Outside of Tech, I enjoy playing with my dog and cats, play badminton, and hunting for good coffee shops out there! If you're near St. Louis, write an email and let's meet for coffee!--!>
 
 
 <h2>📫 How to reach me:</h2>
