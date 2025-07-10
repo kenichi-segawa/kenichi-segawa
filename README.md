@@ -4,10 +4,11 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kenichi-segawa.kenichi-segawa)](https://github.com/kenichi-segawa) [![GitHub followers](https://img.shields.io/github/followers/kenichi-segawa.svg?style=social&label=Follow)](https://github.com/kenichi-segawa?tab=followers)
 
+<!-- 
 I'm Kenichi Segawa! 
 - <i>2022 Alumini:</i> MS Information Systems & Technology from University of Missouri - Saint Louis
 - <i>Previouly:</i> Associate ML Engineer @ [FinLocker](https://finlocker.com/about-finlocker/) 
-- <i>Currently:</i> Data&AI Cloud Solution Architect @ [Microsoft](https://azure.microsoft.com/en-us/)
+- <i>Currently:</i> Data&AI Cloud Solution Architect @ [Microsoft](https://azure.microsoft.com/en-us/) -->
 
 <h2>💻 Passed Azure Cerfitications</h2>
 
